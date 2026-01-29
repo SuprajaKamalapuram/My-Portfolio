@@ -1,5 +1,16 @@
 # React + Vite
 
+🔧 Technologies used:
+React JS
+Tailwind CSS
+Vite
+Framer Motion
+
+Fast project setup with Vite
+Responsive design with Tailwind CSS
+Animations using Framer Motion
+Clean code structure for portfolio websites
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
