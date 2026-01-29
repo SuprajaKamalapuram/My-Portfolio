@@ -29,7 +29,7 @@ const Hero = () => {
            {  /*right side image*/ }
 
            <div className='md:w-1/2 flex justify-center'>
-             <div className='relative w-64 h-64 md:w-80 md:h-110'>
+             <div className='relative w-64 h-94 md:w-80 md:h-110'>
                 <div className='absolute inset-0 rounded-4xl 
                 bg-gradient-to-r from-purple to-pink
                 opacity-70'>
@@ -41,7 +41,7 @@ const Hero = () => {
                     repeatType: "loop",
                     ease: "easeIn"
                    }}
-                   className='relative rounded-4xl w-64 h-64 md:w-80
+                   className='relative rounded-4xl w-64 h-94 md:w-80
                    md:h-110 object-cover z-10 animate-float pt-5'
                    src={assets.profileImg} alt='Profile' />
                 </div>
@@ -54,5 +54,6 @@ const Hero = () => {
     </motion.div>
   )
 }
+
 
 export default Hero
