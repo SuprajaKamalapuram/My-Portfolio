@@ -1,9 +1,8 @@
-Technologies
+React  
+Vite  
+Tailwind CSS  
+Framer Motion  
 
-**React  
-**Vite  
-**Tailwind CSS  
-**Framer Motion  
 ---
 
 Fast project setup with Vite  
