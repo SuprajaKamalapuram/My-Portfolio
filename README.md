@@ -1,4 +1,5 @@
-Technologies  
+Technologies
+
 **React  
 **Vite  
 **Tailwind CSS  
